@@ -23,7 +23,7 @@ Unix-like ([Linux](https://en.wikipedia.org/wiki/Linux), [macOS](https://en.wiki
 
 ## Collaboration
 
-* Version control toolsor VCS (git, svn, etc.)
+* Version control systems or VCS (git, svn, etc.)
 * Linting, team-specific naming conventions
 * [Development Methodologies](https://en.wikipedia.org/wiki/Software_development_process) ([Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)), [Extreme programming](https://en.wikipedia.org/wiki/Extreme_programming), etc.)
 
